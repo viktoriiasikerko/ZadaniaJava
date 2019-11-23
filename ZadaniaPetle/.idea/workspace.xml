@@ -28,17 +28,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Zadanie1">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.zadaniapetle.Main" />
-      <module name="ZadaniaPetle" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Zadanie11">
     <configuration name="Zadanie1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.zadaniapetle.Zadanie1" />
       <module name="ZadaniaPetle" />
@@ -52,14 +42,48 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Zadanie10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Zadanie10" />
+      <module name="ZadaniaPetle" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Zadanie11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Zadanie11" />
+      <module name="ZadaniaPetle" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Zadanie7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Zadanie7" />
+      <module name="ZadaniaPetle" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Zadanie9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Zadanie9" />
+      <module name="ZadaniaPetle" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.Zadanie1" />
+      <item itemvalue="Application.Zadanie7" />
+      <item itemvalue="Application.Zadanie9" />
+      <item itemvalue="Application.Zadanie10" />
+      <item itemvalue="Application.Zadanie11" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Zadanie11" />
+        <item itemvalue="Application.Zadanie10" />
+        <item itemvalue="Application.Zadanie9" />
+        <item itemvalue="Application.Zadanie7" />
         <item itemvalue="Application.Zadanie1" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
