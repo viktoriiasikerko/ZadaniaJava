@@ -8,7 +8,7 @@ public String kolor;
     public Samochod() {
 
     }
-    
+
     public String getNazwa() {
         return nazwa;
         }
